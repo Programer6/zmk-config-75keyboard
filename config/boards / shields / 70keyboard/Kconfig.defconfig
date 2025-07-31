@@ -1,6 +1,6 @@
 if SHIELD_70KEYBOARD
 
 confid ZMK_KEYBOARD_NAME
-    defaukt "70keyboard"
+    default "70keyboard"
 
 enddif
